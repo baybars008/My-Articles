@@ -28,7 +28,7 @@ I list the articles I have written in this field so that they can be accessed in
 </details>
 
 <details>
-  <summary>Cyber Threat Intelligence/summary>
+  <summary>Cyber Threat Intelligence</summary>
 
   1. TR | Siber Aklama ile Mücadele
      * [https://medium.com/@rades0x/siber-aklama-ile-m%C3%BCcadele-f712f7a3535d](https://medium.com/@rades0x/siber-aklama-ile-m%C3%BCcadele-f712f7a3535d)
